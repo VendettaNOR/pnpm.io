@@ -1,4 +1,4 @@
-{
+npm install @workos-inc/nodenpm install @workos-inc/node{
   "scripts": {
     "examples": "docusaurus-examples",
     "copy-docs": "shx rm -rf versioned_docs/version-9.x && shx cp -r docs versioned_docs/version-9.x",
