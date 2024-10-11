@@ -1,4 +1,4 @@
-npm install @workos-inc/nodenpm install @workos-inc/node{
+/storage/emulated/0/Download/node-v20.18.0-linux-x64/LICENSETrykk på et utklipp for å lime det inn i tekstboksen.npm install @workos-inc/nodenpm install @workos-inc/node{
   "scripts": {
     "examples": "docusaurus-examples",
     "copy-docs": "shx rm -rf versioned_docs/version-9.x && shx cp -r docs versioned_docs/version-9.x",
@@ -42,3 +42,4 @@ npm install @workos-inc/nodenpm install @workos-inc/node{
     "ts-node": "10.9.2"
   }
 }
+      - name: Setup Node
